@@ -1,7 +1,6 @@
 package com.markerhub.shiro;
 
 import java.io.Serializable;
-import java.time.LocalDateTime;
 
 public class AccountProfile implements Serializable {
     private Long id;
